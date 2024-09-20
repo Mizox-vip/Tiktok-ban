@@ -1,7 +1,7 @@
   # TikTok Ban Service
 
 ## Overview
-This repository provides a service for banning TikTok accounts, videos, and music. We offer various options to suit different needs, including moderate and expedited bans across multiple devices. Our team is dedicated to providing excellent support 24/7.
+This repository provides a service for banning TikTok accounts, videos, and music. We offer various options to suit different needs, including moderate and expedited bans across multiple devices. Our  team is dedicated to providing excellent support 24/7.
 
 ## Features
 - **Ban Options:**
